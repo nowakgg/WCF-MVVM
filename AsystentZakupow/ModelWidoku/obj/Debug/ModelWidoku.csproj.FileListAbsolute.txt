@@ -1,0 +1,10 @@
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\obj\Debug\ModelWidoku.csprojResolveAssemblyReference.cache
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\obj\Debug\ModelWidoku.csproj.CoreCompileInputs.cache
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\bin\Debug\ModelWidoku.dll
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\bin\Debug\ModelWidoku.pdb
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\bin\Debug\Polecenie.dll
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\bin\Debug\Sumator.dll
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\bin\Debug\Polecenie.pdb
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\bin\Debug\Sumator.pdb
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\obj\Debug\ModelWidoku.dll
+C:\Projects\WCF-MVVM\AsystentZakupow\ModelWidoku\obj\Debug\ModelWidoku.pdb

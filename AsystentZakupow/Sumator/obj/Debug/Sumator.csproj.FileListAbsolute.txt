@@ -1,0 +1,6 @@
+C:\Projects\WCF-MVVM\AsystentZakupow\Sumator\bin\Debug\Sumator.dll
+C:\Projects\WCF-MVVM\AsystentZakupow\Sumator\bin\Debug\Sumator.pdb
+C:\Projects\WCF-MVVM\AsystentZakupow\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+C:\Projects\WCF-MVVM\AsystentZakupow\Sumator\obj\Debug\Sumator.csproj.CoreCompileInputs.cache
+C:\Projects\WCF-MVVM\AsystentZakupow\Sumator\obj\Debug\Sumator.dll
+C:\Projects\WCF-MVVM\AsystentZakupow\Sumator\obj\Debug\Sumator.pdb

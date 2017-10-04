@@ -1,0 +1,6 @@
+C:\Projects\WCF-MVVM\AsystentZakupow\Polecenie\bin\Debug\Polecenie.dll
+C:\Projects\WCF-MVVM\AsystentZakupow\Polecenie\bin\Debug\Polecenie.pdb
+C:\Projects\WCF-MVVM\AsystentZakupow\Polecenie\obj\Debug\Polecenie.csprojResolveAssemblyReference.cache
+C:\Projects\WCF-MVVM\AsystentZakupow\Polecenie\obj\Debug\Polecenie.csproj.CoreCompileInputs.cache
+C:\Projects\WCF-MVVM\AsystentZakupow\Polecenie\obj\Debug\Polecenie.dll
+C:\Projects\WCF-MVVM\AsystentZakupow\Polecenie\obj\Debug\Polecenie.pdb
